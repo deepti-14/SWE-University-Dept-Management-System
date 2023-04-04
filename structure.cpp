@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@deepti-14
-rudrabarad /
-University-Management
-Public
-
-Fork your own copy of rudrabarad/University-Management
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-University-Management/University Management System/University Management Application.cpp
-@rudrabarad
-rudrabarad Application Folder
-Latest commit 7288278 Mar 23, 2020
-History
-1 contributor
-1484 lines (1444 sloc) 45.5 KB
 #include<iostream>
 #include<string.h>
 #include<stdio.h>
@@ -36,8 +6,10 @@ History
 #include<bits/stdc++.h>
 
 using namespace std;
+
 char u[15],ps[11],r1=201,r2=200,r3=188,r4=187,r5=205,r6=186,r7=220,r8=202,r9=204,r10=203,r11=206,r12=185;
- void home()
+
+void home()
  {
      cout<<"\n\n\t\t\t\t\t\t"<<r1;
     for(int i=1;i<27;i++)
@@ -1508,24 +1480,3 @@ int main()
     E:
     return 0;
 }
-
-
-
-
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-University-Management/Presentation.pptx at master · rudrabarad/University-Management

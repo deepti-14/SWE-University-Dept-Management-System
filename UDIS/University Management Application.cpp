@@ -339,11 +339,11 @@ public:
         for(int i=1;i<66;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     CHAROTAR UNIVERSITY OF SCINCE AND TECHNOLOGY   "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<" CHARUSAT "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                    CHANGA, ANAND.                  "<<r6<<endl;
-        cout<<"\t"<<r6<<"                          Accredited with Grade A by KCG,        "<<r6<<endl;
-        cout<<"\t"<<r6<<"                      Education Department, Govt. of Gujarat.    "<<r6<<endl;
+        cout<<"\n"<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"          NATIONAL INSTITUTE OF TECHNOLOGY, ROURKEKLA"<<endl;
+        cout<<r6<<" NIT "<<r6<<"             UNIVERSITY DEPARTMENT INFORMATION SYSTEM\n";
+        cout<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                         \n";
+        cout<<"                  NIRF Ranking among Engineering colleges is 20,\n";
+        cout<<" \t\t                          Education Department, Govt. of India.\n\n";
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
         cout<<"\t"<<r6<<"\t\t\t UNIVERSITY EXAM RESULT \t\t  "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
@@ -528,11 +528,11 @@ else
         for(int i=1;i<66;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     CHAROTAR UNIVERSITY OF SCINCE AND TECHNOLOGY   "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<" CHARUSAT "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,      "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                    CHANGA, ANAND.                  "<<r6<<endl;
-        cout<<"\t"<<r6<<"                          Accredited with Grade A by KCG,        "<<r6<<endl;
-        cout<<"\t"<<r6<<"                      Education Department, Govt. of Gujarat.    "<<r6<<endl;
+        cout<<"\n\t\t "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"          NATIONAL INSTITUTE OF TECHNOLOGY, ROURKEKLA"<<endl;
+        cout<<"\t\t "<<r6<<" NIT "<<r6<<"             UNIVERSITY DEPARTMENT INFORMATION SYSTEM\n";
+        cout<<" \t\t "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                         \n";
+        cout<<" \t\t                        NIRF Ranking among Engineering colleges is 20,\n";
+        cout<<" \t\t                          Education Department, Govt. of India.\n\n";
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
         cout<<"\t"<<r6<<"                      UNIVERSITY FEE RECIEPT                     "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                 "<<r6<<endl;
@@ -598,11 +598,11 @@ else
         for(int i=1;i<67;i++)
             cout<<r5;
             cout<<r4<<endl;
-        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     CHAROTAR UNIVERSITY OF SCINCE AND TECHNOLOGY    "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r6<<" CHARUSAT "<<r6<<"        FACULTY OF ENGINEERING AND TECHNOLOGY,       "<<r6<<endl;
-        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                    CHANGA, ANAND.                   "<<r6<<endl;
-        cout<<"\t"<<r6<<"                          Accredited with Grade A by KCG,         "<<r6<<endl;
-        cout<<"\t"<<r6<<"                      Education Department, Govt. of Gujarat.     "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r1<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r4<<"     NATIONAL INSTITUTE OF TECHNOLOGY, ROURKELA    "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r6<<" NIT "<<r6<<"        UNIVERSITY DEPARTMENT INFORMATION SYSTEM,       "<<r6<<endl;
+        cout<<"\t"<<r6<<" "<<r2<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r5<<r3<<"                                       "<<r6<<endl;
+        cout<<"\t"<<r6<<"                          NIRF Ranking among Engineering colleges is 20,         "<<r6<<endl;
+        cout<<"\t"<<r6<<"                      Education Department, Govt. of India.     "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                  "<<r6<<endl;
         cout<<"\t"<<r6<<"\t\t\t   SALARY CERTIFICATE    \t\t   "<<r6<<endl;
         cout<<"\t"<<r6<<"                                                                  "<<r6<<endl;
